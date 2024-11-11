@@ -10,6 +10,6 @@ public class Bill3 {
 		double result = (i/3.0);
 		double rounded = Math.ceil(result);
 
-		System.out.println("pay " + rounded + " shekels each.");   
+		System.out.println("Dear " + name1 + ", " + name2 + ", and " + name3 + ": pay " + rounded + " Shekels each");   
 	}
 }

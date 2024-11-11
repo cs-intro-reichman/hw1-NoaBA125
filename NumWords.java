@@ -8,6 +8,6 @@ public class NumWords {
 		int o = number%10;
 
 
-		System.out.println(h + " hundreds, " + t + " tens, " + o + " ones.");
+		System.out.println(h + " hundreds, " + t + " tens, and " + o + " ones.");
 	}
 }
